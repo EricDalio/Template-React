@@ -10,5 +10,5 @@ npm scripts included:
 - start
 - dev 
 
-In your browser, open http://localhost:3000 
+In your browser, open http://localhost:8080 
 
